@@ -4,7 +4,7 @@
   Plugin URI: https://CalderaForms.com
   Description: Easy to use, grid based responsive form builder for creating simple to complex forms.
   Author: Caldera Forms
-  Version: 1.9.7
+  Version: 1.9.8
   Author URI: https://CalderaForms.com
   Text Domain: caldera-forms
   GitHub Plugin URI: https://github.com/CalderaWP/caldera-forms
